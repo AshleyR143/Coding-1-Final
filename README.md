@@ -1,2 +1,3 @@
 # Coding-1-Final
  These are the starter files for F2021 Coding 1 Final
+My site is based on an adoption puppy center where its a heartwarming place where countless rescued and abandoned puppies are given a second chance at life, offering loving families the opportunity to find their perfect furry companion while promoting responsible pet ownership, reducing the number of animals in shelters, and providing essential care such as vaccinations, microchipping, and spaying or neutering, all within a compassionate environment where trained staff and volunteers work tirelessly to ensure each puppy is healthy, socialized, and ready for a forever home, making every adoption not just the start of a new friendship but also a meaningful step toward ending animal homelessness.
