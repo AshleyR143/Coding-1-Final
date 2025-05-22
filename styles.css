@@ -5,7 +5,25 @@
 }
 h3{
     text-align: center;
-    color:lightpink;
+    color:rgb(219, 133, 205);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
+}
+body{
+    background-color:#e9bce5;
+}
+.pup{
+    color: rgb(218, 120, 196);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+}
+h5{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight:bold ;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
 }
